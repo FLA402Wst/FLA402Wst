@@ -1,5 +1,5 @@
 - 👋 FLA402Wst
-  MdU project in course FLA401 ht2024
+  MdU project in course FLA402 ht2024
 - 
 <!---
 FLA402Wst/FLA402Wst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
